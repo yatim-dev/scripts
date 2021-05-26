@@ -1,8 +1,0 @@
-0 0 1 0 1
-input 0 
-link 3 
-plus 4 1 1
-multiply 2 1 2
-less 1 0 3 
-output 2
-quit
